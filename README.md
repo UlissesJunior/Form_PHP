@@ -17,3 +17,31 @@ No PHP: A partir das variáveis recebidas, efetua uma equação do 2º grau e im
 <p align="center">
 <img src="assets/.gif">
 <p>
+
+## Exercício 3
+No HTML: Recebe o valor das variáveis tria, trib, tric que são lados de um triângulo <p> 
+No PHP: A partir das variáveis recebidas, passa por um sistema de condição e imprime se o triângulo é isósceles, escaleno ou equiátero
+<p align="center">
+<img src="assets/.gif">
+<p>
+  
+## Exercício 4
+No HTML: Recebe o valor das variáveis nome, peso, altura<p> 
+No PHP: A partir das variáveis recebidas, efetua o cálculo do IMC e imprime o nome e o valor de IMC
+<p align="center">
+<img src="assets/.gif">
+<p>
+
+## Exercício 5
+No HTML: Recebe o valor da variável color <p> 
+No PHP: Surge um sistema de condição para ver se a cor digitada é uma das permitidas (red, blue, green ou lightblue), se for uma das permitidas, o background se altera para a cor digitada. Se não, imprime o background do css.
+<p align="center">
+<img src="assets/.gif">
+<p>
+  
+## Exercício 6
+No HTML: Recebe o valor das variáveis tria, trib, tric que são lados de um triângulo <p> 
+No PHP: A partir das variáveis recebidas, passa por um sistema de condição, e imprime se o triângulo pode ser formado, se sim ele classifica o triângulo em retângulo, obtusângulo ou acutângulo 
+<p align="center">
+<img src="assets/.gif">
+<p>  
