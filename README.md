@@ -5,5 +5,5 @@ Meu primeiro bimestre trabalhando com PHP, esse arquivo é a minha avaliação b
 <p>
   
 ## Exercício 1
-No HTML: Recebe o nome e data de nascimento do usuário
+No HTML: Recebe o nome e data de nascimento do usuário <p> 
 No PHP: Imprime o nome digitado, faz o cálculo com base na data de nascimento e na data atual e imprime a idade do usuário
