@@ -12,7 +12,7 @@ No PHP: Imprime o nome digitado, faz o cálculo com base na data de nascimento e
 <p>
 
 ## Exercício 2
-No HTML: Recebe o valor das variáveis a,b,c <p> 
+No HTML: Recebe o valor das variáveis a, b, c <p> 
 No PHP: A partir das variáveis recebidas, efetua uma equação do 2º grau e imprime o valor de x1 e x2
 <p align="center">
 <img src="assets/.gif">
