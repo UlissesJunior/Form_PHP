@@ -7,3 +7,13 @@ Meu primeiro bimestre trabalhando com PHP, esse arquivo é a minha avaliação b
 ## Exercício 1
 No HTML: Recebe o nome e data de nascimento do usuário <p> 
 No PHP: Imprime o nome digitado, faz o cálculo com base na data de nascimento e na data atual e imprime a idade do usuário
+<p align="center">
+<img src="assets/.gif">
+<p>
+
+## Exercício 2
+No HTML: Recebe o valor das variáveis a,b,c <p> 
+No PHP: A partir das variáveis recebidas, efetua uma equação do 2º grau e imprime o valor de x1 e x2
+<p align="center">
+<img src="assets/.gif">
+<p>
